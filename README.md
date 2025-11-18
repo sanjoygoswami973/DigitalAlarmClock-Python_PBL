@@ -29,7 +29,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/digital-alarm-clock.git
+git clone [https://github.com/yourusername/digital-alarm-clock.git](https://github.com/sanjoygoswami973/DigitalAlarmClock-Python_PBL.git)
 cd digital-alarm-clock
 Install dependencies (if you are using a third-party library for sound): If you used the playsound library, run:
 
